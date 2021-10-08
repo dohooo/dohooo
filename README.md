@@ -1,16 +1,19 @@
-### Hi there 👋
+## 🎉 Hi!~
 
-<!--
-**zwh1666258377/zwh1666258377** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Doho! I am a front-end Developer of web. I love learing new technology and skills of web 🐶.
 
-Here are some ideas to get you started:
+## 🤓 My values
+🍏 Beginner's mindset and curiosity<br>
+🙌 Sharing anything I learned<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Goals of 2021
+
+I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects make I can improve my skills of program.
+
+## 🧠 That I know and use
+### 📚 Langues and Frameworks
+- HTML5
+- CSS3, SCSS, SASS
+- Antd, Bootstrap
+- JavaScript, TypeScript（I am good at TypeScript）
+- React, React Native, Redux, Redux-Saga React-Router, Next.js, MongoDB, Express.js, Umi.js, Graphql

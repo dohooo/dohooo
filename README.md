@@ -3,6 +3,8 @@
 I'm Doho! I am a front-end Developer of web. I love learing new technology and skills of web 🐶.
 I've been working on a great APP for my organization，It offers interactive videos for people who want to take college courses，React-native is used as a whole, welcome to experience! ~
 
+email: zhaodonghao586@outlook.com
+
 <img width="100%" src="./app-qrcode.png" alt="app"/>
 
 ## 🤓 My values

@@ -21,7 +21,7 @@
 
 ## 🔭 Goals of 2021
 
-I want to learn English. Now I watch English youtube channels and articles everyday and write English articles about program technology each week, I hope I can prepared in 2021 💪. I also want to contribute more open source projects make I can improve my skills of program.
+I'm learning English now. I watch English channels and articles everyday and practice writing English articles about sharing programming technology each week. I hope I can be prepared in 2021 💪. I plan to contribute more open-source projects to improve my programming skill.
 
 ## 🧠 That I know and use
 

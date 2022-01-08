@@ -7,6 +7,9 @@
 ![111](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## 🔧 My project
 
@@ -29,3 +32,4 @@ I'm learning English now. I watch English channels and articles everyday and pra
 ## 📝 My GH stats
 
 [![My GH stats](https://github-readme-stats.vercel.app/api?username=dohooo&theme=dark)](https://github.com/dohooo)
+

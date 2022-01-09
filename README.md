@@ -27,7 +27,8 @@ I'm learning English now. I watch English channels and articles everyday and pra
 
 ## 🧠 That I know and use
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+- <img align='center' src="https://img.shields.io/badge/-React-282C34?style=flat-square&logo=react&logoColor=61DAFB"/> <img align='center' src="https://img.shields.io/badge/-React Native-282C34?style=flat-square&logo=react&logoColor=61DAFB"/>
+- <img align='center' src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=FFFFFF"/>
 
 ## 📝 My GH stats
 

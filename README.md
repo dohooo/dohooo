@@ -4,7 +4,7 @@
 
 #### <p align="center">email: zhaodonghao586@outlook.com</p>
 
-![111](./TT.HEIC)
+![TT](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->
 
 <p align="center">
@@ -21,9 +21,11 @@
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
 
-## 🔭 Goals of 2021
+## 🔭 Goals of 2022
 
-I'm learning English now. I watch English channels and articles everyday and practice writing English articles about sharing programming technology each week. I hope I can be prepared in 2021 💪. I plan to contribute more open-source projects to improve my programming skill.
+- [ ] Submit a PR to `Vite.js`.  
+- [ ] Make a 500🌟 repo.   
+- [ ] Get 10 sponsors.    
 
 ## 🧠 That I know and use
 

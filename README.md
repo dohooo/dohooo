@@ -23,8 +23,8 @@
 
 ## 🔭 Goals of 2022
 
+- [x] Make a 500🌟 repo. 🏆   
 - [ ] Submit a PR to `Vite.js`.  
-- [ ] Make a 500🌟 repo.   
 - [ ] Get 10 sponsors.    
 
 ## 🧠 That I know and use

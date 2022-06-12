@@ -17,6 +17,8 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=react-native-reanimated-carousel&theme=dark)](https://github.com/dohooo/react-native-reanimated-carousel)
 
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=Gold-Right&theme=dark)](https://github.com/dohooo/Gold-Right)
+
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>
@@ -36,4 +38,10 @@
 ## 📝 My GH stats
 
 [![My GH stats](https://github-readme-stats.vercel.app/api?username=dohooo&theme=dark)](https://github.com/dohooo)
+
+## 🫡 My Sponsors
+
+<p align="center">
+  <img src='https://github.com/dohooo/sponsors/blob/master/sponsors.png?raw=true'/>
+</p>
 

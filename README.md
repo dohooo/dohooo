@@ -17,10 +17,6 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=react-native-reanimated-carousel&theme=dark)](https://github.com/dohooo/react-native-reanimated-carousel)
 
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=Gold-Right&theme=dark)](https://github.com/dohooo/Gold-Right)
-
-[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=bookcase-builder&theme=dark)](https://github.com/dohooo/bookcase-builder)
-
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
 🙌 Sharing anything I learned<br>

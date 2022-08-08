@@ -25,7 +25,7 @@
 
 - [x] 🏆500🌟 repo.（1000/500）
 - [x] 🏆Submit a PR to `Vite.js`.（1/1）   
-- [ ] 100 followers.（90/100）   
+- [x] 🏆100 followers.（100/100）   
 - [ ] 10 sponsors.（8/10）    
 
 ## 🧠 That I know and use

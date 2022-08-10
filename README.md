@@ -1,8 +1,8 @@
 ## 🎉 Hi!~
 
-#### <p align="center">I love my girl friend and coding,hhha!~</p>
+*<p align="center">I love my girl friend and coding,hhha!~ 💗</p>*
 
-#### <p align="center">email: zhaodonghao586@outlook.com</p>
+*<p align="center">Email: zhaodonghao586@outlook.com</p>*
 
 ![TT](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->
@@ -23,9 +23,9 @@
 
 ## 🔭 Goals of 2022 
 
-- [x] 🏆500🌟 repo.（1000/500）
+- [x] 🏆500🌟 repo.（1062/500）
 - [x] 🏆Submit a PR to `Vite.js`.（1/1）   
-- [x] 🏆100 followers.（100/100）   
+- [x] 🏆100 followers.（101/100）   
 - [ ] 10 sponsors.（8/10）    
 
 ## 🧠 That I know and use

@@ -17,20 +17,20 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=dohooo&repo=react-native-reanimated-carousel&theme=dark)](https://github.com/dohooo/react-native-reanimated-carousel)
 
-## 🔭 Goals of 2022 
-
-- [x] 🏆500🌟 repo.（1246/500）
-- [x] 🏆Submit a PR to `Vite.js`.（1/1）   
-- [x] 🏆100 followers.（212/100）   
-- [x] 🏆10 sponsors.（11/10）    
-- [x] 🏆Become a sponsor (1/1)
-
 ## 🔭 Goals of 2023 
 
 - [ ] 1000🌟 repo x 3.（1/3）
 - [ ] Be come core member of vite.（0/1）   
 - [ ] 1000 followers.（212/1000）   
 - [ ] 50 sponsors.（11/50）    
+
+## 🔭 Goals of 2022 
+
+- [x] ~~🏆500🌟 repo.（1246/500）~~
+- [x] ~~🏆Submit a PR to `Vite.js`.（1/1）~~
+- [x] ~~🏆100 followers.（212/100）~~
+- [x] ~~🏆10 sponsors.（11/10）~~
+- [x] ~~🏆Become a sponsor (1/1)~~
 
 ## 📝 My GH stats
 

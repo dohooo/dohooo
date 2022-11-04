@@ -20,7 +20,7 @@
 ## 🔭 Goals of 2023 
 
 - [ ] 1000🌟 repo x 3.（1/3）
-- [ ] Be come core member of vite.（0/1）   
+- [ ] Become core member of vite.（0/1）   
 - [ ] 1000 followers.（212/1000）   
 - [ ] 50 sponsors.（11/50）    
 

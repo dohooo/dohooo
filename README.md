@@ -8,7 +8,7 @@
 <!-- <img src="./TT.HEIC" alt="app"/> -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dohooo/dohooo/dist/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## 🔧 My project

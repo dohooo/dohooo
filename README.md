@@ -1,6 +1,6 @@
 ## 🎉 Hi!~
 
-*<p align="center">I love my girl friend and coding,hhha!~ 💗</p>*
+*<p align="center">I love my girlfriend and coding,hhha!~ 💗</p>*
 
 *<p align="center">Email: caspian.zhao@outlook.com</p>*
 

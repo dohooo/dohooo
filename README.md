@@ -1,8 +1,8 @@
 ## 🎉 Hi!~
 
-*<p align="center">I love my girlfriend and coding,hhha!~ 💗</p>*
+*<p align="center">I love my girlfriend and coding, hhha!~ 💗</p>*
 
-*<p align="center">Email: caspian.zhao@outlook.com</p>*
+*<p align="center">Email: <a href="mailto:caspian.zhao@outlook.com">caspian.zhao@outlook.com</a></p>*
 
 ![TT](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->

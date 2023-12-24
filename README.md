@@ -19,6 +19,8 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=Crossbell-Box&repo=xLog-mobile&theme=dark)](https://github.com/Crossbell-Box/xLog-mobile)
 
+[![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=Crossbell-Box&repo=xLog&theme=dark)](https://github.com/Crossbell-Box/xLog)
+
 ## 🫡 My Sponsors
 
 <p align="center">

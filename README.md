@@ -5,9 +5,6 @@
 ![TT](./TT.HEIC)
 <!-- <img src="./TT.HEIC" alt="app"/> -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
-</p>
 
 ## 🔧 My projects
 
@@ -19,9 +16,17 @@
 
 [![Repo card](https://github-readme-stats.vercel.app/api/pin/?username=Crossbell-Box&repo=xLog&theme=dark)](https://github.com/Crossbell-Box/xLog)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dohooo/dohooo/output/github-contribution-grid-snake.svg" />
+</p>
+
+## 👀 What I'm working on?
+I'm making [Dosu](https://dosu.dev/) and this is what Dosu made.
+
+<img src="https://github.com/dohooo/dohooo/assets/32405058/8ee88481-d898-4618-bd17-b9bd62b98800"/>
+
 ## 🫡 My Sponsors
 
 <p align="center">
   <img src='https://github.com/dohooo/sponsors/blob/master/sponsors.png?raw=true'/>
 </p>
-

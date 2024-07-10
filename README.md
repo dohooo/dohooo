@@ -23,7 +23,7 @@
 ## 👀 What I'm working on?
 I'm making [Dosu](https://dosu.dev/) and this is what Dosu made.
 
-<img src="https://github.com/dohooo/dohooo/assets/32405058/8ee88481-d898-4618-bd17-b9bd62b98800"/>
+<img src="https://github.com/dohooo/dohooo/assets/32405058/bd1050b0-1589-4395-ba7c-a4533d334855"/>
 
 ## 🫡 My Sponsors
 
